@@ -7,14 +7,16 @@ This project aims to quantify:
 - How the premium varies within the city (by geography, occupation, income level)
 
 ### Research Question
-key insight: Does an urban wage premium exist in London?
+Main Paper:  Do cities actually increase welfare, or just increase nominal income?
 - does the London wage premium survive after cost-of-living and particaption adjustment?
-- Do cities actually increase welfare, or just increase nominal income?
-
-Supporting questions:
 - How does the wage premium change with distance from the city centre?
 - Is the premium concentrated among high-skill occupations?
 - How much of the premium is driven by: location (proximity to CBD / high job density areas) and worker characteristics (education, occupation)
+
+Side Papers - refreshing framewroks:
+- Should participation wages change based on median area income?
+- How should "skill" now be proxied, given the changes to modern working?
+
 
 ### Economic Frameworks
 This project tests key mechanisms from urban labour economics:
